@@ -20,22 +20,7 @@
 
 <br clear="right"/>
 
----
-
-<!-- ░░░ PROFILE BADGES ░░░ -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=kulkarni-shreya&style=for-the-badge&color=FF6BCB&label=PROFILE+VIEWS)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/kulkarni-shreya?style=for-the-badge&color=4ECDC4&label=FOLLOWERS)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/kulkarni-shreya?style=for-the-badge&color=FFE66D&label=TOTAL+STARS)
-
-</div>
-
----
-
-<!-- ░░░ TECH STACK ░░░ -->
+<!--  TECH STACK  -->
 ## Tech Stack & Tools
 
 <div align="center">
@@ -133,32 +118,10 @@
   </picture>
 </div>
 
-<!-- 
-  ╔════════════════════════════════════════════════════════════╗
-  ║  To enable the snake animation, create a GitHub Actions   ║
-  ║  workflow at .github/workflows/snake.yml with content:    ║
-  ║                                                           ║
-  ║  name: Generate Snake                                     ║
-  ║  on:                                                      ║
-  ║    schedule: [{cron: "0 */12 * * *"}]                    ║
-  ║    workflow_dispatch:                                     ║
-  ║  jobs:                                                    ║
-  ║    generate:                                              ║
-  ║      runs-on: ubuntu-latest                               ║
-  ║      steps:                                               ║
-  ║        - uses: Platane/snk@v3                             ║
-  ║          with:                                            ║
-  ║            github_user_name: YOUR_USERNAME                ║
-  ║            outputs: |                                     ║
-  ║              dist/github-snake.svg                        ║
-  ║              dist/github-snake-dark.svg?palette=github-dark║
-  ╚════════════════════════════════════════════════════════════╝
--->
-
 ---
 
 <!-- ░░░ CONNECT ░░░ -->
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -169,7 +132,7 @@
 ---
 
 
-<!-- ░░░ FOOTER ░░░ -->
+<!--  FOOTER  -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" />
 </div>
