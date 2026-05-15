@@ -1,24 +1,4 @@
-<!-- ░░░ HERO HEADER ░░░ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Data%Analyst%20%26%20ML%20Engineer&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Transforming%20Raw%20Data%20into%20Actionable%20Intelligence%20🚀&descSize=17&descAlignY=60&descColor=ffffffcc" width="100%" />
-</div>
 
-<!-- ░░░ TYPING ANIMATION ░░░ -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2800&pause=900&color=FF6BCB&background=00000000&center=true&vCenter=true&width=650&lines=📊+Building+Predictive+Models+%26+ML+Pipelines;🧠+Wrangling+Data+Until+It+Confesses+Its+Secrets;📈+Tableau+%26+Power+BI+Dashboard+Architect;🔄+dbt+%7C+PostgreSQL+%7C+MySQL+Data+Engineer;💡+Turning+Chaos+into+Crystal-Clear+Insights" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
----
-
-<!-- ░░░ ABOUT ME ░░░ -->
-
- # ### `Who am I?`
-
-<br clear="right"/>
 
 <!--  TECH STACK  -->
 ## Tech Stack & Tools
