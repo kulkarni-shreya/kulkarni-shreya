@@ -1,8 +1,3 @@
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!-- ║          ANIMATED GITHUB PROFILE README             ║ -->
-<!-- ║   Replace YOUR_USERNAME with your GitHub handle     ║ -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
-
 <!-- ░░░ HERO HEADER ░░░ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Data%Analyst%20%26%20ML%20Engineer&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Transforming%20Raw%20Data%20into%20Actionable%20Intelligence%20🚀&descSize=17&descAlignY=60&descColor=ffffffcc" width="100%" />
@@ -20,31 +15,8 @@
 ---
 
 <!-- ░░░ ABOUT ME ░░░ -->
-<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🧬 `whoami`
-
-```python
-class DataScientist:
-    def __init__(self):
-        self.name      = "Your Name"           # 👈 update me
-        self.role      = "Data Scientist & ML Engineer"
-        self.stack     = {
-            "languages" : ["Python", "SQL"],
-            "analytics" : ["Tableau", "Power BI", "Excel"],
-            "transform" : ["dbt"],
-            "databases" : ["PostgreSQL", "MySQL"],
-        }
-        self.currently_learning = ["LLMOps", "MLflow", "Spark"]
-        self.fun_fact  = "I debug with coffee ☕ and fix with sleep 💤"
-
-    def mission(self) -> str:
-        return "Build models that matter. Ship insights that stick."
-
-me = DataScientist()
-print(me.mission())
-# >> Build models that matter. Ship insights that stick.
-```
+ # ### `Who am I?`
 
 <br clear="right"/>
 
@@ -53,25 +25,25 @@ print(me.mission())
 <!-- ░░░ PROFILE BADGES ░░░ -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=FF6BCB&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=kulkarni-shreya&style=for-the-badge&color=FF6BCB&label=PROFILE+VIEWS)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=4ECDC4&label=FOLLOWERS)
+![Followers](https://img.shields.io/github/followers/kulkarni-shreya?style=for-the-badge&color=4ECDC4&label=FOLLOWERS)
 &nbsp;
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&color=FFE66D&label=TOTAL+STARS)
+![Stars](https://img.shields.io/github/stars/kulkarni-shreya?style=for-the-badge&color=FFE66D&label=TOTAL+STARS)
 
 </div>
 
 ---
 
 <!-- ░░░ TECH STACK ░░░ -->
-## ⚡ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
-### 🐍 Languages & Query
+### Languages & Query
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql&theme=dark&perline=8" />
 
-### 📊 Analytics & BI
+### Analytics & BI
 <table align="center">
   <tr>
     <td align="center" width="110">
@@ -89,7 +61,7 @@ print(me.mission())
   </tr>
 </table>
 
-### 🧠 ML & Data Science
+### ML & Data Science
 <table align="center">
   <tr>
     <td align="center">
@@ -120,10 +92,6 @@ print(me.mission())
     </td>
   </tr>
 </table>
-
-### 🛠️ Dev & Infra
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark&perline=8" />
-
 </div>
 
 ---
@@ -132,33 +100,24 @@ print(me.mission())
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&border_radius=12&hide_border=false&count_private=true&include_all_commits=true&custom_title=My+GitHub+Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=kulkarni-shreya&show_icons=true&theme=radical&border_radius=12&hide_border=false&count_private=true&include_all_commits=true&custom_title=My+GitHub+Stats" />
   &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&border_radius=12&hide_border=false&langs_count=8&custom_title=Most+Used+Languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulkarni-shreya&layout=compact&theme=radical&border_radius=12&hide_border=false&langs_count=8&custom_title=Most+Used+Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=daily&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kulkarni-shreya&theme=radical&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=daily&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
 
 <!-- ░░░ ACTIVITY GRAPH ░░░ -->
-## 🔥 Contribution Activity
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&bg_color=0d1117&color=FF6BCB&line=4ECDC4&point=FFE66D&area=true&hide_border=false&radius=12" width="100%" alt="Contribution Graph"/>
-</div>
-
----
-
-<!-- ░░░ TROPHIES ░░░ -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kulkarni-shreya&theme=tokyo-night&bg_color=0d1117&color=FF6BCB&line=4ECDC4&point=FFE66D&area=true&hide_border=false&radius=12" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -168,9 +127,9 @@ print(me.mission())
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kulkarni-shreya/kulkarni-shreya/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kulkarni-shreya/kulkarni-shreya/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/kulkarni-shreya//kulkarni-shreya/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -205,28 +164,10 @@ print(me.mission())
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 &nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/YOUR_USERNAME)
-&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_USERNAME)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6BCB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_USERNAME.github.io)
-
 </div>
 
 ---
 
-<!-- ░░░ QUOTE ░░░ -->
-<div align="center">
-
-### 💬 Daily Data Wisdom
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=In%20God%20we%20trust.%20All%20others%20must%20bring%20data.&author=W.%20Edwards%20Deming" />
-
-</div>
-
----
 
 <!-- ░░░ FOOTER ░░░ -->
 <div align="center">
@@ -234,5 +175,5 @@ print(me.mission())
 </div>
 
 <div align="center">
-  <sub>✨ Built with 💜 data, caffeine, and one too many pivot tables ✨</sub>
+  <sub>Built with 💜 data, caffeine, and one too many pivot tables</sub>
 </div>
